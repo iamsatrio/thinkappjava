@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.24)  6 JAN 2016 23:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.12.24)  7 JAN 2016 13:53
 entering extended mode
 **main.tex
 (main.tex
@@ -1117,22 +1117,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 423--425
 
  []
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.451 akan menetapkan nilai 8 untuk x, karena 2^
-                                                3 = 8.
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
 )
-! Missing $ inserted.
-<inserted text> 
-                $
-l.84 \include{Bab-4}
-                     %%merujuk ke berkas Bab-4.tex
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+Underfull \hbox (badness 10000) in paragraph at lines 433--84
+
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 433--84
@@ -1183,7 +1171,7 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmti12.pfb>
-Output written on main.pdf (28 pages, 133398 bytes).
+Output written on main.pdf (28 pages, 133365 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
